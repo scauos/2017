@@ -125,3 +125,4 @@ To add your own below, just [edit](https://github.com/wwdc/2017/edit/master/READ
 |[Zach Simone](https://twitter.com/zachsimone)|[GitHub](https://github.com/zachsimone/WWDC17-Scholarship-Application)||SpriteKit, UIKit|Rejected|
 |[Zhiyu Zhu](https://twitter.com/zhuzhiyu2001041)|[GitHub](https://github.com/ApolloZhu/Swifty-Karel)||Singleton; Timer, UIKit and Animation, Core Graphics, AVFoundation, PlaygroundSupport, CustomPlaygroundQuicklookable|Accepted|
 |[Ziga Besal](http://ekranac.com)|[GitHub](https://github.com/ekranac/Zboot-Playground)||UIKit|Accepted|
+|[Hong HaoDong](http://scauos.github.io)|[GitHub](https://github.com/scauos/WWDC17-Scholarship)||UIKit,SceneKit,AVFoundation,CoreMotion,MapKit,SpriteKit,PlaygroundSupport,Algorithms-BSF,LayoutGuide...|Accepted|
